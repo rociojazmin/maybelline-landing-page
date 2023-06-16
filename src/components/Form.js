@@ -35,7 +35,7 @@ const Form = () => {
                                         <h2 className="mb-6 text-3xl font-bold secondary">
                                             ¿Querés recibir fabulosos descuentos?
                                             <br />
-                                            <span className="text-primary text-secondary">
+                                            <span className="text-secondary">
                                                 Registrate con tu e-mail
                                             </span>
                                         </h2>
