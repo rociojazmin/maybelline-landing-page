@@ -4,7 +4,7 @@ import data from './dummyData';
 
 const CardsContainer = () => {
   return (
-    <div id="cards-container" >
+    <div id="productos" >
       <h1 className='mt-10 text-center text-3xl font-bold tracking-tight  sm:text-3xl text-secondary'>Últimos lanzamientos</h1>
       <section className="px-30 flex flex-wrap justify-center py-20">
         {data.map(({ name, image, language }, index) => (
