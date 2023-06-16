@@ -40,7 +40,7 @@ const Form = () => {
                                             </span>
                                         </h2>
                                         <p className="mb-12 text-neutral-500 dark:text-neutral-300">
-                                            Te enviaremos descuentos y promociones a tu casilla de correo electrónico.
+                                            Te enviaremos descuentos y promociones a tu casilla de correo.
                                         </p>
                                         <div className="mb-6 flex-row md:mb-0 md:flex">
                                             <div
